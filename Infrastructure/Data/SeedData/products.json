@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Apple iPhone 14 Pro Max",
+    "Description": "string",
+    "ImageUrl": "string",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Loa Bluetooth JBL Go 3, 4",
+    "Description": "string",
+    "ImageUrl": "string",
+    "CategoryId": 3
+  }
+]

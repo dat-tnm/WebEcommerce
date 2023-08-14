@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Memory",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Color",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Color",
+    "CategoryId": 3
+  },
+  {
+    "Name": "Hz",
+    "CategoryId": 3
+  }
+]

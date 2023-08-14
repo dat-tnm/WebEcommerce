@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Apple iPhone 14 Pro Max 128GB",
+    "Description": "string",
+    "ImageUrl": "string",
+    "Price": 26000000,
+    "ProductId": 1
+  },
+  {
+    "Name": "Apple iPhone 14 Pro Max 256GB",
+    "Description": "string",
+    "ImageUrl": "string",
+    "Price": 30000000,
+    "ProductId": 1
+  },
+  {
+    "Name": "Loa Bluetooth JBL Go 3",
+    "Description": "string",
+    "ImageUrl": "string",
+    "Price": 750000,
+    "ProductId": 2
+  },
+  {
+    "Name": "Loa Bluetooth JBL Go 4",
+    "Description": "string",
+    "ImageUrl": "string",
+    "Price": 750000,
+    "ProductId": 2
+  }
+]

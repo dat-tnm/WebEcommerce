@@ -7,17 +7,15 @@ using System.Threading.Tasks;
 
 namespace Core.Entities
 {
-    public class Product
+    public class Attribute
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Description { get; set; }
-        public string? ImageUrl { get; set; }
         public int CategoryId { get; set; }
 
         [NotMapped]
-        public virtual IEnumerable<ProductVariation> ProductVariations { get; set; }
-        [NotMapped]
         public Category Category { get; set; }
+        [NotMapped]
+        public virtual IEnumerable<JTProductAttribute> JTProductVariations { get; set; }
     }
 }
